@@ -1,10 +1,9 @@
 package com.company;
 
 public class basicFeatures {
-    String engineCapac;
-    String Color;
-    String doors;
-    String headlights;
-    String regNo;
-
+    public String engineCapac;
+    public String Color;
+    public String doors;
+    public String headlights;
+    public String regNo;
 }
